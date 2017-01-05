@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: January 4, 2017 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started FCC Build a Tribute Page challenge.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Working on getting all the basics lined up: github, twitter, codepen. Worked on tribute page content yesterday. Took a "first stab" and the code today. Will refine tomorrow.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Build Tribute Page](https://codepen.io/dmjacobi/pen/NdPdEo)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
