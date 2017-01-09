@@ -9,6 +9,7 @@
 
 **Link to work:** [Build Tribute Page](https://codepen.io/dmjacobi/pen/NdPdEo)
 
+
 ### Day 2: January 7, 2017
 ##### (delete me or comment me out)
 
@@ -16,7 +17,17 @@
 
 **Thoughts**: Restarted the challenge from scratch using the Norman Bourlag exmaple as reference. I still have a lot of questions, but am starting to understand HTML layout and formatting.
 
-**Link(s) to work**: [Calculator App](http://codepen.io/dmjacobi/pen/egNQLa)
+**Link(s) to work**: [Build Tribute Page](http://codepen.io/dmjacobi/pen/egNQLa)
+
+
+### Day 3: January 8, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Started working on FCC Build a Personal Portfolio Webpage challenge.
+
+**Thoughts**: Got a start on the navigation bar.
+
+**Link(s) to work**: [Calculator App](http://codepen.io/dmjacobi/pen/ZLGgMW) challenge.
 
 
 ### Day 1: June 27, Monday
