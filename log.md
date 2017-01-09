@@ -27,7 +27,7 @@
 
 **Thoughts**: Got a start on the navigation bar.
 
-**Link(s) to work**: [Calculator App](http://codepen.io/dmjacobi/pen/ZLGgMW) challenge.
+**Link(s) to work**: [Build a Personal Portfolio Webpage](http://codepen.io/dmjacobi/pen/ZLGgMW) challenge.
 
 
 ### Day 1: June 27, Monday
