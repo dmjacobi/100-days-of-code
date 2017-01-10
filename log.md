@@ -30,6 +30,16 @@
 **Link(s) to work**: [Build a Personal Portfolio Webpage](http://codepen.io/dmjacobi/pen/ZLGgMW) challenge.
 
 
+### Day 4: January 9, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Continued working on FCC Build a Personal Portfolio Webpage challenge.
+
+**Thoughts**: Applied the page's background image and set up the page tags.
+
+**Link(s) to work**: [Build a Personal Portfolio Webpage](http://codepen.io/dmjacobi/pen/ZLGgMW) challenge.
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
